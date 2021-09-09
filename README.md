@@ -1,6 +1,6 @@
 # Modules, Web Scrapping, Data Analysis & TDD
 
-In this task, you will encounter and use the following;
+Technologies Used;
 
 - Requests module
 - Beautiful Soup library
@@ -11,21 +11,21 @@ In this task, you will encounter and use the following;
 ## Conventions / Coding Styles
 
 1. Notice that names of modules, methods, functions and variables are `snake_cased`, while names of classes are `PascalCased`
-2. Ensure to have two spaces exactly between import and actual codes in modules
-3. Ensure to be consistent with the usage of string quotes. Always use the single quote except in situations where you need to use double quotes
+2. two spaces exactly between import and actual codes in modules
+3. consistency with the usage of string quotes. Always use the single quote except in situations where you need to use double quotes
 
-## Github Convention
+## Github Convention followed
 
-1. Create a branch named `implement-web-analysis` and only work within this branch
-2. Complete implementation and testing of the web analysis
-3. When done, push your changes and raise a pull request on Github using the pull request template already added to the project (`.github` folder)
+1. Created a branch named `implement-web-analysis` and only worked within this branch
+2. Completed implementation and testing of the web analysis
+3. When done,  changes were pushed and  pull request was raised on Github using the pull request template already added to the project (`.github` folder)
 
 ## Approach
 
-- Try to not attempt to conceptualize the whole documentation and codebase at once, instead move step by step through the task
-- Ensure to understand the problem before attempting to write any code
-- Ensure to write the expected unit tests first before actual implementation, as that confirms that you are conforming to the `TDD Methodology`.
-- Ensure to manually experiment within the modules to confirm the results of your implementations
+- Tried to not attempt to conceptualize the whole documentation and codebase at once, instead i moved step by step through the task
+- I understood the problem before attempting to write any code
+- I wrrote the expected unit tests first before actual implementation, as that confirms that I conformed to the `TDD Methodology`.
+- I made sure to manually experiment within the modules to confirm the results of your implementations
 
 ## Running Your Tests
 
@@ -37,7 +37,6 @@ Machine>> python -m unittest tests
 
 ## Website Analysis
 
-This week's project will include the requests module, Beautiful Soup, and matplotlib libraries. <br/>
 The goal for this project is to create a script that will accept a web site to scrape and display the top words used within the site. We’ll plot the results within a nicely formatted pie and bar plot, making it easier to understand for those looking at the data.
 
 ## Task Analysis and Design
@@ -65,7 +64,7 @@ like, as well as how it should function. For testing purposes, we’ll use Pytho
   - 1. Create a bar plot.
   - 2. Create a pie plot
 
-The program output should look like the following:
+The program output looks like the following:
 
 ```bash
 
@@ -80,7 +79,7 @@ The program output should look like the following:
 
 ****
 
-**NOTE:** **Your implementation for this mini project should deploy the usage OOP (Object Oriented Programming Paradigm) and conform to SOLID principle**
+**NOTE:** **Your implementation for this mini project deployed the usage OOP (Object Oriented Programming Paradigm) and conform to SOLID principle**
 
 ## How to use this app
 -clone this code from repository
@@ -90,6 +89,10 @@ The program output should look like the following:
 -run the app 'python main.py' our click the play button on vs code
 
 ## screen shots on how it runs
+![Screen Shot 2021-09-09 at 8 43 48 AM](https://user-images.githubusercontent.com/81101034/132645422-b7aefd5f-edd5-4a88-8dc8-c72ce1dabdc2.png)
+
+## screen shots of result
+![Screen Shot 2021-09-09 at 8 41 48 AM](https://user-images.githubusercontent.com/81101034/132645463-9422c2c9-36ad-4369-bc78-5cc68c054fc1.png)
 
 
 **Happy Using...**
